@@ -12,7 +12,7 @@ settings_file_name = 'Reservify'
 
 import sys
 import os
-import jesi_rtd_theme
+import cw_theme
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
@@ -24,7 +24,7 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.coverage',
     'sphinx.ext.ifconfig',
-    'jesi_rtd_theme'
+    'cw_theme'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -90,9 +90,9 @@ if on_rtd:
     }
 
 # -- Options for HTML output ----------------------------------------------
-html_theme = 'jesi_rtd_theme'
+html_theme = 'cw_theme'
 
-html_theme_path = [jesi_rtd_theme.get_html_theme_path()]
+html_theme_path = [cw_theme.get_html_theme_path()]
 
 html_theme_options = {
     'collapse_navigation': True
