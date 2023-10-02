@@ -1,0 +1,9 @@
+document:
+  name: ConciliaWeb
+  description: |
+    Reservify è la piattaforma del Comune di Jesi per la prenotazione degli appuntamenti
+  tags:
+    - Comune di Jesi
+    - Jesi
+    - Prenotazioni
+    - Appuntamenti
