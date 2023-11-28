@@ -3,8 +3,8 @@ Introduzione
 
 Questo capitolo descrive le azioni generiche per la fruizione del sistema di prenotazione appuntamenti.
 
-Registrazione e login:
-----------------------
+Registrazione e login
+---------------------
 
 Per accedere al sistema di prenotazione appuntamenti, è necessario eseguire il login. Gli utenti non autenticati saranno automaticamente reindirizzati alla pagina di login, dove dovranno fornire le seguenti credenziali:
 
@@ -20,8 +20,8 @@ Dopo aver effettuato l'accesso con successo, l'applicazione presenta una sidebar
 
 Nel caso non si disponga delle credenziali di accesso contattare il referente che provvederà alla profilazione.
 
-Profilo:
---------
+Profilo
+-------
 
 Per la modifica del proprio profilo, l'utente deve essere autenticato nel sistema. Successivamente, seguire le seguenti istruzioni:
 
@@ -46,8 +46,8 @@ Per la modifica del proprio profilo, l'utente deve essere autenticato nel sistem
 
 Questa procedura consente all'utente di gestire e modificare il proprio profilo.
 
-Logout:
--------
+Logout
+------
 
 Per disconnettersi in modo sicuro, seguire queste istruzioni:
 
