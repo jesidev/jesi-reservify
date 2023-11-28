@@ -27,7 +27,7 @@ Per la modifica del proprio profilo, l'utente deve essere autenticato nel sistem
 
 1. Nella barra laterale sinistra, individuare l'icona a forma di matita accanto alle informazioni di base, come nome, cognome e ruolo.
 
-.. figure:: /media/profilo_edit.png
+.. figure:: /media/homepage.png
    :align: center
    :name: profilo-edit
    :alt: Modifica profilo
@@ -54,7 +54,7 @@ Per disconnettersi in modo sicuro, seguire queste istruzioni:
 1. Scorrere fino alla parte inferiore della sidebar laterale sinistra.
 2. Fare clic sull'opzione "Logout".
 
-.. figure:: /media/profilo_edit.png
+.. figure:: /media/homepage.png
    :align: center
    :name: logout
    :alt: Logout

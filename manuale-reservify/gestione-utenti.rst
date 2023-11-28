@@ -6,7 +6,7 @@ Per accedere alla pagina dedicata alla gestione degli utenti, è necessario esse
 1. Nella barra laterale sinistra, individuare e fare clic sulla voce "Utenti" nell'elenco delle opzioni disponibili.
 2. Sarà indirizzato a una pagina contenente una tabella paginata che elenca gli utenti registrati nel sistema. Ogni riga rappresenta un utente, e ogni colonna fornisce informazioni utili sull'utente corrispondente. L'ultima colonna è dedicata alle azioni che è possibile applicare a ciascun utente.
 
-.. figure:: /media/lista_utenti.png
+.. figure:: /media/utente/lista.png
    :align: center
    :name: lista-utenti
    :alt: Lista utenti
@@ -19,7 +19,7 @@ Per creare un nuovo utente, seguire queste istruzioni:
 1. Nella parte superiore della tabella degli utenti, individuare e fare clic sul pulsante dedicato per "Creare Nuovo Utente".
 2. Sarà quindi reindirizzato a una pagina dedicata con un modulo da compilare. Seguire le indicazioni fornite sotto ciascun campo.
 
-.. figure:: /media/creazione_utente.png
+.. figure:: /media/utente/crea.png
    :align: center
    :name: creazione-utente
    :alt: Creazione utente
@@ -36,7 +36,7 @@ Per modificare un utente già esistente, seguire queste istruzioni:
 2. Nella colonna delle azioni, individuare l'azione di modifica rappresentata da un'icona a forma di matita e fare clic su di essa.
 3. Sarà quindi reindirizzato a una pagina dedicata con un modulo da compilare. Seguire le indicazioni fornite sotto ciascun campo.
 
-.. figure:: /media/modifica_utente.png
+.. figure:: /media/utente/modifica.png
    :align: center
    :name: modifica-utente
    :alt: Modifica utente
