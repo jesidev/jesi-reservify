@@ -1,17 +1,15 @@
-Manuale sistema di prenotazione appunamenti
-+++++++++++++++++++++++++++++++++++++++++++
+Manuale sistema di prenotazione appuntamenti
+++++++++++++++++++++++++++++++++++++++++++++
 
-Lorem ipsum.....
+Questo manuale descrive il funzionamento del sistema di prenotazione appuntamenti.
 
 .. toctree::
   :maxdepth: 3
   :numbered:
   :hidden:
-  :caption: Manuale sistema di prenotazione
+  :caption: Manuale sistema di prenotazione appuntamenti
 
   manuale-reservify/introduzione.rst
-  manuale-reservify/login.rst
-  manuale-reservify/profilo-utente.rst
   manuale-reservify/gestione-utenti.rst
   manuale-reservify/gestione-servizi.rst
   manuale-reservify/gestione-appuntamenti.rst
