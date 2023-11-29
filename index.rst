@@ -11,6 +11,8 @@ Questo manuale descrive il funzionamento del sistema di prenotazione appuntament
 
   manuale-reservify/introduzione.rst
   manuale-reservify/gestione-utenti.rst
+  manuale-reservify/gestione-risorse.rst
+  manuale-reservify/gestione-tipi-servizio.rst
   manuale-reservify/gestione-servizi.rst
   manuale-reservify/gestione-appuntamenti.rst
   
